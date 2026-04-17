@@ -21,32 +21,57 @@
 
 ---
 
-## 🧠 About Me
 
-```python
-class ManirajSingh:
-    def __init__(self):
-        self.name        = "Maniraj Singh"
-        self.role        = "CS Student | AI/ML Enthusiast | QA Automation Engineer"
-        self.location    = "India 🇮🇳"
-        self.languages   = ["Python", "Java", "SQL", "HTML", "CSS", "JavaScript"]
-        self.focus       = ["QA Automation", "AI/ML", "API Testing", "Data Analytics"]
-        self.frameworks  = ["Selenium WebDriver", "TestNG", "REST Assured", "Gradio"]
-        self.learning    = ["Advanced Automation Frameworks", "AI/ML", "Data Analytics"]
-        self.fun_fact    = "I enjoy building scalable automation frameworks 🔧"
 
-    def current_work(self):
-        return "🔭 QA Automation with Selenium WebDriver, TestNG & REST Assured"
+## 👤 About Me
 
-    def collaboration(self):
-        return "🤝 Open to Automation Testing & Data-Driven Projects"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together 🚀")
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Maniraj+%F0%9F%91%8B+%E2%80%94+a+CS+student+passionate+about+AI+%26+Automation!" alt="intro" />
 
-me = ManirajSingh()
-me.say_hi()
-```
+</div>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🙋‍♂️ Who Am I?
+
+&nbsp;&nbsp;🎓 &nbsp;CS Student from **India 🇮🇳**
+&nbsp;&nbsp;🤖 &nbsp;**AI/ML** enthusiast building real-world agents
+&nbsp;&nbsp;🧪 &nbsp;**QA Automation** engineer in the making
+&nbsp;&nbsp;🌐 &nbsp;**Web & Backend** developer
+&nbsp;&nbsp;📊 &nbsp;**Data Analytics** explorer
+&nbsp;&nbsp;⚡ &nbsp;Lover of scalable, clean code
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Right Now
+
+&nbsp;&nbsp;🔭 &nbsp;Building with **Selenium + TestNG + REST Assured**
+&nbsp;&nbsp;🌱 &nbsp;Deep diving into **AI/ML & Data Analytics**
+&nbsp;&nbsp;🤝 &nbsp;Open to **automation & data-driven collabs**
+&nbsp;&nbsp;🧠 &nbsp;Seeking **real-world framework guidance**
+&nbsp;&nbsp;💬 &nbsp;Talk to me about **Selenium, Java, Python, SQL**
+&nbsp;&nbsp;⚡ &nbsp;Fun fact: I debug faster with **coffee ☕**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/🔥_Passion-QA%20Automation-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
+![](https://img.shields.io/badge/🚀_Goal-AI%20%2F%20ML%20Engineer-0d1117?style=flat-square&labelColor=0d1117&color=0077b6)
+![](https://img.shields.io/badge/📍_Based_In-India-0d1117?style=flat-square&labelColor=0d1117&color=023e8a)
+![](https://img.shields.io/badge/🎓_Status-CS%20Student-0d1117?style=flat-square&labelColor=0d1117&color=48cae4)
+
+</div>
 
 ---
 
