@@ -126,14 +126,7 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mani07raj&theme=darkhub&no-frame=true&column=6&margin-w=10&title_color=00b4d8" />
-</div>
-
----
-
+ 
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -150,11 +143,11 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-mani07raj-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="mailto:your.email@gmail.com">
+<a href="maniraj.r.singh@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
+<a href=" https://www.linkedin.com/in/manirajsingh04/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117" />
 </a>
 
