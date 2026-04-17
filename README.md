@@ -54,7 +54,7 @@ me.say_hi()
 
 | Status | Details |
 |---|---|
-| 🔭 **Working On** | QA Automation using Selenium WebDriver, TestNG & REST Assured |
+| 🔭 **Working On** | QA Automation using Selenium WebDriver, TestNG  |
 | 🌱 **Learning** | AI/ML, Advanced Automation Frameworks & Data Analytics |
 | 🤝 **Open To** | Collaborating on Automation Testing & Data-Driven Projects |
 | 🧠 **Seeking** | Guidance in real-world testing practices & advanced frameworks |
