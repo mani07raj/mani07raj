@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔥 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=240&section=header&text=MANIRAJ%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=90e0ef&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=240&section=header&text=MANIRAJ%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=90e0ef&animation=fadeIn" />
 
 <!-- 💻 Typing Animation -->
  <p align="center">
