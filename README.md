@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=240&section=header&text=MANIRAJ%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=90e0ef&animation=fadeIn" />
 
 <!-- 💻 Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+AI+that+actually+works+🤖;Automation+Engineer+in+Progress+⚙️;Java+%7C+Python+%7C+Selenium+%7C+SQL;Turning+Ideas+into+Scalable+Systems+🚀" />
-
-<br/>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+AI+that+actually+works+%F0%9F%A4%96;Automation+Engineer+in+Progress+%E2%9A%99%EF%B8%8F;Java+%7C+Python+%7C+Selenium+%7C+SQL;Turning+Ideas+into+Scalable+Systems+%F0%9F%9A%80" />
+</p>
 
 <!-- 👀 Stats -->
 <img src="https://komarev.com/ghpvc/?username=mani07raj&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge" />
