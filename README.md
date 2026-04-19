@@ -100,8 +100,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/mani07raj/mani07raj/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
