@@ -122,6 +122,10 @@
 
 ---
 
+<img src="https://leetcard.jacoblin.cool/MANIRAJ07?theme=dark&font=Fira%20Code&ext=contest"/>
+
+
+---
 # 📬 Let's Connect
 
 <div align="center">
@@ -136,6 +140,10 @@
 
 <a href="https://www.linkedin.com/in/manirajsingh04/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/mani07raj/mani07raj/blob/main/Maniraj_Singh_Resume.pdf">
+<img src="https://img.shields.io/badge/Download-Resume-00b4d8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
